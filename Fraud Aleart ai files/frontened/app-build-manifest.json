@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "/(app)/page": [
+      "static/chunks/5b4e6_next_dist_798c4413._.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_app_favicon_ico_mjs_3092deb6._.js",
+      "static/chunks/[root-of-the-server]__36bdc180._.css",
+      "static/chunks/ef0ef__pnpm_7b031bf3._.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_b986cfdc._.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_app_layout_tsx_218dc4cd._.js",
+      "static/chunks/5b4e6_next_dist_client_components_builtin_global-error_e7a02cb1.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_17a9a78a._.js",
+      "static/chunks/78ac7_livekit-client_dist_livekit-client_esm_mjs_45eb8c1f._.js",
+      "static/chunks/512e4_@livekit_components-react_dist_783c5dff._.js",
+      "static/chunks/51c99_@phosphor-icons_react_dist_a904422b._.js",
+      "static/chunks/fbb02_framer-motion_dist_es_861165fa._.js",
+      "static/chunks/e3f51_motion-dom_dist_es_66d7cba9._.js",
+      "static/chunks/2df8b_@radix-ui_react-select_dist_index_mjs_ed770cdc._.js",
+      "static/chunks/ef0ef__pnpm_d751ee7b._.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_app_(app)_page_tsx_e7a02cb1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_b7bed25e._.js",
+      "static/chunks/5b4e6_next_dist_compiled_react-dom_328c0c85._.js",
+      "static/chunks/5b4e6_next_dist_compiled_next-devtools_index_dd090509.js",
+      "static/chunks/5b4e6_next_dist_compiled_afaec823._.js",
+      "static/chunks/5b4e6_next_dist_client_73d2cbf7._.js",
+      "static/chunks/5b4e6_next_dist_a644b245._.js",
+      "static/chunks/9c021_@swc_helpers_cjs_c907d153._.js",
+      "static/chunks/OneDrive_Desktop_livekite_frontend_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_livekite_frontend_a66a3498._.js"
+    ]
+  }
+}
