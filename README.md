@@ -77,7 +77,7 @@ Perfect for developers, AI enthusiasts, and anyone learning voice agent integrat
 
 Watch the fraud alert agent in action:
 
-🔗 [Demo Video](https://drive.google.com/file/d/1txCNPWyWqrocn4XY-J23j6d_56pdOzv1/view?usp=vids_web)
+🔗https://drive.google.com/file/d/1txCNPWyWqrocn4XY-J23j6d_56pdOzv1/view?usp=drive_link
 
 ---
 
